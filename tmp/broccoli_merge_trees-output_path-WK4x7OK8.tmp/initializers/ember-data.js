@@ -1,0 +1,1 @@
+/Users/pkulshreshtha/Desktop/hbase-phoenix/tmp/broccoli_merge_trees-input_base_path-XijsDMWn.tmp/2/initializers/ember-data.js

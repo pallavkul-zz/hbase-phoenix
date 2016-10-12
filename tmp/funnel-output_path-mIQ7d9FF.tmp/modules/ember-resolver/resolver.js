@@ -1,0 +1,1 @@
+/Users/pkulshreshtha/Desktop/hbase-phoenix/tmp/funnel-input_base_path-1twDze0l.tmp/0/resolver.js

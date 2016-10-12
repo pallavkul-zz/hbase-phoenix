@@ -1,0 +1,1 @@
+/Users/pkulshreshtha/Desktop/hbase-phoenix/tmp/funnel-input_base_path-AzkzuoQe.tmp/0/index.js
